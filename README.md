@@ -136,9 +136,9 @@ https://github.com/vadimgrn/usbip-win2/releases/download/v.0.9.7.7/USBip-0.9.7.7
 
 Download and install it.
 
-|WHen it is open.
+When it is open:
 
-Set your server host IP. the port 3240 is the default.
+Top right, set your server host IP. the port 3240 is the default.
 
 Click add devices. Your bound items should be listed.
 
